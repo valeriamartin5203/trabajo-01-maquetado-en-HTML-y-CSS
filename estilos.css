@@ -7,10 +7,13 @@ body
 
 }
 
-h1
+.nombre
 {
-    color: rgb(43, 28, 248);
+    background-color: #bca8f3;
+    padding: 3px;
+    color: rgb(0, 0, 0);
 }
+
 
 h2
 {
@@ -27,4 +30,8 @@ p
     font-size: 20px;
 }
 
+.experiencia
+{
+    border: 5px solid yellow
+}
 
