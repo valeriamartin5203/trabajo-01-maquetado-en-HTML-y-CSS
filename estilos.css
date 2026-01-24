@@ -27,7 +27,16 @@ body
 {
     background-color: var(--color-2);
     padding: 3px;
+    grid-column: 1 / -1;
+    text-align: center;
+}
 
+main
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
 }
 
 
