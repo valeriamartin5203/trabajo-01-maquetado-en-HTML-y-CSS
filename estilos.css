@@ -4,7 +4,8 @@ body
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    background-color: #eef8ff; 
+    background-color: #eef8ff;
+    color: black; 
 
 }
 
@@ -12,11 +13,11 @@ body
 {
     background-color: #bca8f3;
     padding: 3px;
-    color: #000000;
+
 }
 
 
-h2
+h1, h2, h3
 {
     color:#3b3b97;
 }
