@@ -8,6 +8,9 @@ Este proyecto tiene estas caracteristicas
 - Diseño moderno
 - Responsivo
 
+## Tecnologias utilizadas
+Para este proyecto solo se uso HTML y CSS
+
 ## Estructura del proyecto
 
 ### Archivo principal
