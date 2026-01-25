@@ -5,9 +5,11 @@
     --color-1: #eef8ff;
     --color-2: #bca8f3;
     --color-3: #3b3b97;
-    --color-4: #cc94ec;
-    --color-5: #fda4e0;
-    --color-6: #eef58d;
+    --color-4: #5629f8;
+    --color-5: #f853c1;
+    --color-6: #ecf752;
+    --color-7: #fda4e0;
+    --color-8: #eef58d;
 
 }
 
@@ -58,11 +60,13 @@ p
 .datos, .escuela, .idiomas, .experiencia, .referencias
 {
     border: 5px solid var(--color-5);
+    background-color: var(--color-7);
 }
 
 .sobre-mi, .habilidades, .proyectos, .intereses
 {
     border: 5px solid var(--color-6);
+    background-color: var(--color-8);
 }
 
 .foto

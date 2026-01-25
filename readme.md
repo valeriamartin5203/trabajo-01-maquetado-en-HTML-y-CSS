@@ -19,8 +19,6 @@ el archivo principal de este proyecto es el cv.html
 ### Archivo de estilo
 Para que la pagina tenga un diseño actrativo es importante el archivo estilo.css
 
-### validacion
-
 
 ## Contacto
 -GitHub: valeriamartin5203
